@@ -300,7 +300,7 @@ link.classList.add("active");
 ====================================================== */
 
 // Ubah tanggal sesuai ulang tahun
-const birthdayDate = new Date("July 18, 2027 00:00:00").getTime();
+const birthdayDate = new Date("July 25, 2026 00:00:00").getTime();
 
 const dayBox = document.getElementById("days");
 const hourBox = document.getElementById("hours");
